@@ -41,7 +41,7 @@ public class LogginConsoleErrors {
 		List<LogEntry> logs = entry.getAll();
 		
 		for(LogEntry e : logs) {
-			System.out.println(e.getMessage());
+			System.out.println(e.getMessage()); //Log4j
 		}
 				
 		
