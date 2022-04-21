@@ -1,4 +1,4 @@
-Thank you for getting to this point. This repository was created for a project to learn and test Selenium with Chrome Dev tools and Chrome Dev Tools (CDP). 
+Thank you for getting to this point. This repository was created for a project to learn and test Selenium with Chrome Dev tools and Chrome Dev Protocols (CDP). 
 
 ## Topics Covered
 - Concepts
